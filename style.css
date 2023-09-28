@@ -1,0 +1,21 @@
+.table{
+    height: fit-content;
+    width: 30%;
+}
+.img{
+    height: 150;
+    width: 170;
+}
+.infor{
+    padding-left: 30px;
+}
+.section{
+    text-align: center;
+    font-family:sans-serif;
+    font-style: oblique;
+    padding-top: 0%;
+}
+.text{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
